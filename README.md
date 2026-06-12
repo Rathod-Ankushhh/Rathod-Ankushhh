@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Rathod Ankush
 
-<!--
-**Rathod-Ankushhh/Rathod-Ankushhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about building responsive and user-friendly web applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech CSE Graduate
+- 💼 Frontend Developer Intern at Axcentra
+- 🌱 Learning Modern Frontend Development
+- 📫 Email: rathodankushhhhh@gmail.com
+
+## 🛠 Skills
+
+HTML | CSS | JavaScript | Bootstrap
+
+Responsive Design | Git | GitHub
+
+Figma | Python
+
+## 🌐 Connect With Me
+
+Portfolio:https://rathod-ankushhh.github.io/Portfolio/
+LinkedIn:https://www.linkedin.com/in/rathod-ankush-8506a431b/
+GitHub:https://github.com/Rathod-Ankushhh
+
+## 📌 Featured Projects
+
+### Responsive Personal Portfolio
+Responsive portfolio website built using HTML, CSS and JavaScript.
+
+### Software Defect Prediction
+ML-based web application for software defect prediction.
